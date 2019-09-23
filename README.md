@@ -1,0 +1,2 @@
+# MemesProject
+Classification of memes
